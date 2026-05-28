@@ -1,0 +1,6 @@
+{
+  "name": "Fluxo SABER",
+  "description": "Sistema de Apoio Baseado em Evidências e Respostas para gestão de políticas de saúde pública informadas por evidências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
